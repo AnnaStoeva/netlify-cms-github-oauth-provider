@@ -5,7 +5,7 @@
     "node": ">=7.x"
   },
   "description": "netlify oauth github client sending token in form as netlify service itself",
-  "repository": "https://github.com/vencax/netlify-cms-github-oauth-provider",
+  "repository": "https://github.com/annastoeva/netlify-cms-github-oauth-provider",
   "main": "index.js",
   "scripts": {
   
